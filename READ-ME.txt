@@ -1,0 +1,16 @@
+Da Ebony Warriors Society
+Hardcoded website
+
+Open index.html in any browser to look at the site.
+
+To put it on GoDaddy:
+1. Unzip this folder.
+2. Open your hosting file manager and go to public_html.
+3. Upload the files inside this folder (the html pages, css, js, images, and favicon). Do not upload this READ-ME if you do not want it public.
+4. Your domain should show index.html as the home page.
+
+Pages: index.html, about.html, work.html, gatherings.html, contact.html.
+
+Longer paragraphs are still lorem ipsum. Send documents and images when you have them and they can be added.
+
+The contact form does not email anyone. It only shows the note on the page. Instagram (@daebonyworriors) is the live way to reach the society.
